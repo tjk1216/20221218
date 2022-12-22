@@ -2,7 +2,7 @@ body {
     background-color: deepskyblue;
     background:url(images/pexels-donald-tong-55787.jpg) center no-repeat fixed;
     background-size: cover;
-    background-color: black(241, 239, 233);
+    background-color: rgb(247, 237, 196);
     font-size:30px;
 }
 
@@ -56,3 +56,4 @@ img{
 #pic3{
     filter:sepia(100%);
 }
+
